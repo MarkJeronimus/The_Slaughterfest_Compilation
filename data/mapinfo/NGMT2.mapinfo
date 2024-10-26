@@ -1,0 +1,206 @@
+//New Gothic Movement 2
+
+map NGMT2_01 "New Gothic Movement II 1"
+titlepatch CWILV184
+next NGMT2_02
+secretnext NGMT2_02
+sky1 SKY3 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_NGM201
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_02 "New Gothic Movement II 2"
+titlepatch CWILV184
+next NGMT2_03
+secretnext NGMT2_03
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM202
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_03 "New Gothic Movement II 3"
+titlepatch CWILV184
+next NGMT2_04
+secretnext NGMT2_04
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM203
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_04 "New Gothic Movement II 4"
+titlepatch CWILV184
+next NGMT2_05
+secretnext NGMT2_05
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM204
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_05 "New Gothic Movement II 5"
+titlepatch CWILV184
+next NGMT2_06
+secretnext NGMT2_06
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM205
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_06 "New Gothic Movement II 6"
+titlepatch CWILV184
+next NGMT2_07
+secretnext NGMT2_07
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM206
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_07 "New Gothic Movement II 7"
+titlepatch CWILV184
+next NGMT2_08
+secretnext NGMT2_08
+map07special
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM207
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_08 "New Gothic Movement II 8"
+titlepatch CWILV184
+next NGMT2_09
+secretnext NGMT2_09
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM208
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_09 "New Gothic Movement II 9"
+titlepatch CWILV184
+next NGMT2_10
+secretnext NGMT2_10
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM209
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_10 "New Gothic Movement II 10"
+titlepatch CWILV184
+next NGMT2_11
+secretnext NGMT2_11
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM210
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_11 "New Gothic Movement II 11"
+titlepatch CWILV184
+next NGMT2_12
+secretnext NGMT2_12
+sky1 SKY1 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM211
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_12 "New Gothic Movement II 12"
+titlepatch CWILV184
+next NGMT2_13
+secretnext NGMT2_13
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM212
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_13 "New Gothic Movement II 13"
+titlepatch CWILV184
+next NGMT2_14
+secretnext NGMT2_14
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM213
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_14 "New Gothic Movement II 14"
+titlepatch CWILV184
+next NGMT2_15
+secretnext NGMT2_15
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM214
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_15 "New Gothic Movement II 15(edit)"
+titlepatch CWILV184
+next NGMT2_16
+secretnext NGMT2_16
+sky1 SKY1 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM215
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGM2O_15 "New Gothic Movement II 15"
+titlepatch CWILV184
+next NGMT2_31
+secretnext NGMT2_31
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM215
+exitpic GOTHPIC
+intermusic D_GOTHIN
+
+map NGMT2_31 "New Gothic Movement II 31"
+titlepatch CWILV184
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM231
+exitpic GOTHPIC
+intermusic D_GOTHIN

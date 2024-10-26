@@ -1,0 +1,552 @@
+//Chillax
+map CHLX_01 "Chillax 01"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_02"
+     secretnext ="CHLX_02"
+     sky1 ="Sky1",0.3
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX01"
+}
+map CHLX_02 "Chillax 02"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_03"
+     secretnext ="CHLX_03"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX02"
+}
+map CHLX_03 "Chillax 03"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_04"
+     secretnext ="CHLX_04"
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX03"
+}
+ map CHLX_04 "Chillax 04"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_05"
+     secretnext ="CHLX_05"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX04"
+}
+map CHLX_05 "Chillax 05"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_06"
+     secretnext ="CHLX_06"
+     sky1 ="Sky1",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX05"
+}
+map CHLX_06 "Chillax 06"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_07"
+     secretnext ="CHLX_07"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX06"
+}
+map CHLX_07 "Chillax 07"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_08"
+     secretnext ="CHLX_08"
+     map07special
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX07"
+}
+map CHLX_08 "Chillax 08"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_09"
+     secretnext ="CHLX_09"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX08"
+}
+map CHLX_09 "Chillax 09"
+{
+    titlepatch ="CWILV183"
+    next ="CHLX_10"
+    secretnext ="CHLX_10"
+    sky1 ="Sky1",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+    music ="D_CHLX09"
+}
+map CHLX_10 "Chillax 10"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_11"
+     secretnext ="CHLX_11"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX10"
+}
+map CHLX_11 "Chillax 11"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_12"
+     secretnext ="CHLX_12"
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX11"
+}
+map CHLX_12 "Chillax 12"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_13"
+     secretnext ="CHLX_13"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX12"
+}
+map CHLX_13 "Chillax 13"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_14"
+     secretnext ="CHLX_14"
+     sky1 ="Sky1",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX13"
+}
+map CHLX_14 "Chillax 14"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_15"
+     secretnext ="CHLX_15"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX14"
+}
+map CHLX_15 "Chillax 15"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_16"
+     secretnext ="CHLX_16"
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX15"
+}
+map CHLX_16 "Chillax 16"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_17"
+     secretnext ="CHLX_17"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX16"
+}
+map CHLX_17 "Chillax 17"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_18"
+     secretnext ="CHLX_18"
+     sky1 ="Sky1",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX17"
+}
+map CHLX_18 "Chillax 18"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_19"
+     secretnext ="CHLX_19"
+     sky1 ="Sky2",0.1
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX18"
+}
+map CHLXO_18 "Chillax 18"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_19"
+     secretnext ="CHLX_19"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX18"
+}
+map CHLX_19 "Chillax 19"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_20"
+     secretnext ="CHLX_20"
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX19"
+}
+map CHLX_20 "Kuthundral's Fortress"
+{
+     titlepatch ="CWILV183"
+     next = "CHLX_21"
+     secretnext = "CHLX_21"
+     sky1 = "Sky4",0.1
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music = "D_CHLX20"
+}
+map CHLX_21 "Descent into the Maelstrom"
+{
+     titlepatch ="CWILV183"
+     next = "CHLX_22"
+     secretnext = "CHLX_22"
+     sky1 = "Sky1",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music = "D_CHLX21"
+}
+map CHLX_22 "Chillax 22"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_23"
+     secretnext ="CHLX_23"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX22"
+}
+map CHLX_23 "Chillax 23"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_24"
+     secretnext ="CHLX_24"
+     sky1 ="Sky3",0.4
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX23"
+}
+map CHLX_24 "Chillax 24"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_25"
+     secretnext ="CHLX_25"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX24"
+}
+map CHLX_25 "Chillax 25"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_26"
+     secretnext ="CHLX_26"
+     sky1 ="Sky1",0.5
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX25"
+}
+map CHLX_26 "Chillax 26"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_27"
+     secretnext ="CHLX_27"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX26"
+}
+map CHLX_27 "Chillax 27"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_28"
+     secretnext ="CHLX_28"
+     sky1 ="Sky3",0.4
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX27"
+}
+map CHLX_28 "Chillax 28"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_29"
+     secretnext ="CHLX_29"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX28"
+}
+map CHLX_29 "Chillax 29"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_30"
+     secretnext ="CHLX_30"
+     sky1 ="Sky1",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX29"
+}
+map CHLX_30 "Chillax 30 (Remix)"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_31"
+     secretnext ="CHLX_31"
+     sky1 ="Sky2",0.1
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX30"
+}
+map CHLXO_30 "Chillax 30"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_31"
+     secretnext ="CHLX_31"
+     sky1 ="Sky2",0.1
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX30"
+}
+map CHLX_31 "Chillax 31"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_32"
+     secretnext ="CHLX_032"
+     sky1 ="Sky3",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX31"
+}
+map CHLX_32 "Chillax 32"
+{
+     titlepatch ="CWILV183"
+     next ="CHLX_33"
+     secretnext ="CHLX_33"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "CHLXPIC"
+	 intermusic = "D_CHLXIN"
+     music ="D_CHLX32"
+}
+map CHLX_33 "Impregnable Fort"
+{
+	titlepatch = "CWILV33"
+	next = "CHLX_34"
+	secretnext = "CHLX_34"
+	sky1 = "sky1",0.2
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX33"
+}
+map CHLX_34 "Paroxysm Ecstasy"
+{
+	titlepatch = "CWILV34"
+	next = "CHLX_35"
+	secretnext = "CHLX_35"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX34"
+}
+map CHLX_35 "Lethal Artifice"
+{
+	titlepatch = "CWILV35"
+	next = "CHLX_36"
+	secretnext = "CHLX_36"
+	sky1 = "sky3",0.3
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX35"
+}
+map CHLX_36 "Sinistral Keep"
+{
+	titlepatch = "CWILV36"
+	next = "CHLX_37"
+	secretnext = "CHLX_37"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX36"
+}
+map CHLX_37 "Knuckle Splitter"
+{
+	titlepatch = "CWILV37"
+	next = "CHLX_38"
+	secretnext = "CHLX_38"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX37"
+}
+map CHLX_38 "Mutilator"
+{
+	titlepatch = "CWILV38"
+	next = "CHLX_39"
+	secretnext = "CHLX_39"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX38"
+}
+map CHLX_39 "Morgus Rictus (Reedit)"
+{
+	titlepatch = "CWILV39"
+	next = "CHLX_40"
+	secretnext = "CHLX_40"
+	sky1 = "sky1",0.1
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX39"
+}
+map CHLXO_39 "Morgus Rictus"
+{
+	titlepatch = "CWILV39"
+	next = "CHLX_40"
+	secretnext = "CHLX_40"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX39"
+}
+map CHLX_40 "Suicide Assured"
+{
+	titlepatch = "CWILV40"
+	next = "CHLX_41"
+	secretnext = "CHLX_41"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX40"
+}
+map CHLX_41 "Hallowed Grounds"
+{
+	titlepatch = "CWILV41"
+	next = "CHLX_42"
+	secretnext = "CHLX_42"
+	sky1 = "sky1",0.3
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX41"
+}
+map CHLX_42 "Spartan Gauntlet"
+{
+	titlepatch = "CWILV42"
+	next = "CHLX_43"
+	secretnext = "CHLX_43"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX42"
+}
+map CHLX_43 "Searing Malice"
+{
+	titlepatch = "CWILV43"
+	next = "CHLX_44"
+	secretnext = "CHLX_44"
+	sky1 = "sky3",0.4
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX43"
+}
+map CHLX_44 "Diabolical Torment"
+{
+	titlepatch = "CWILV44"
+	next = "CHLX_45"
+	secretnext = "CHLX_45"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX44"
+}
+map CHLX_45 "Feeding Frenzy"
+{
+	titlepatch = "CWILV45"
+	next = "CHLX_46"
+	secretnext = "CHLX_46"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX45"
+}
+map CHLX_46 "Deadly Deja Vu (edit)"
+{
+	titlepatch = "CWILV46"
+	next = "CHLX_47"
+	secretnext = "CHLX_47"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX46"
+}
+map CHLX_47 "Grimlock Dungeon (edit)"
+{
+	titlepatch = "CWILV47"
+	next = "Hubmap"
+	secretnext = "Hubmap"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "CHLXPIC"
+	intermusic = "D_CHLXIN"
+	music = "D_CHLX47"
+}

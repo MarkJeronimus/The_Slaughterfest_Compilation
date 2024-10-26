@@ -1,0 +1,422 @@
+//Slaughterfest 2013
+
+map SF13F_01 "Resurrect Dead on Planet Jupiter"
+titlepatch CWILV131
+next SF13F_02
+secretnext SF13F_01
+sky1 SKY3 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F01
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_02 "Firestarter"
+titlepatch CWILV132
+next SF13F_03
+secretnext SF13F_03
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F02
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_03 "Pathogen"
+titlepatch CWILV133
+next SF13F_04
+secretnext SF13F_04
+sky1 SKY1 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F03
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_04 "Desecration"
+titlepatch CWILV134
+next SF13F_05
+secretnext SF13F_05
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F04
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_05 "Evil Battlefield of Demons"
+titlepatch CWILV135
+next SF13F_06
+secretnext SF13F_06
+sky1 SKY3 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F05
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_06 "Wavebreaker"
+titlepatch CWILV136
+next SF13F_07
+secretnext SF13F_07
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F06
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_07 "MorkFang"
+titlepatch CWILV137
+next SF13F_08
+secretnext SF13F_08
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F07
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13C_08 "Resurgam"
+titlepatch CWILV138
+next SF13F_09
+secretnext SF13F_09
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F08
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_09 "Yonahe"
+titlepatch CWILV139
+next SF13F_10
+secretnext SF13F_10
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F09
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_10 "Dunleitt"
+titlepatch CWILV140
+next SF13F_11
+secretnext SF13F_11
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F10
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_11 "Broken Mind"
+titlepatch CWILV141
+next SF13F_12
+secretnext SF13F_12
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F11
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_12 "Gevurah"
+titlepatch CWILV142
+next SF13F_13
+secretnext SF13F_13
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F12
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_13 "The Farthest Reach"
+titlepatch CWILV143
+next SF13F_14
+secretnext SF13F_14
+sky1 SKY3 0.4
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F13
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_14 "BlueShift"
+titlepatch CWILV144
+next SF13F_15
+secretnext SF13F_15
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F14
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_15 "Skittle Biscuit"
+titlepatch CWILV145
+next SF13F_16
+secretnext SF13F_16
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F15
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_16 "Nibblet"
+titlepatch CWILV146
+next SF13F_17
+secretnext SF13F_17
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F16
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_17 "Fierce Attack"
+titlepatch CWILV147
+next SF13F_18
+secretnext SF13F_18
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F17
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_18 "Via Toruosa"
+titlepatch CWILV148
+next SF13F_19
+secretnext SF13F_19
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F18
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_19 "Meet-a-Bear"
+titlepatch CWILV151
+next SF13F_20
+secretnext SF13F_20
+sky1 SKY1 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F19
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_20 "Red Recluse (edit)"
+titlepatch CWILV150
+next SF13F_21
+secretnext SF13F_21
+sky1 SKY3 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F20
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_21 "Heck Revealed"
+titlepatch CWILV164
+next SF13F_22
+secretnext SF13F_22
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F21
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_22 "Uprising"
+titlepatch CWILV152
+next SF13F_23
+secretnext SF13F_23
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_DDTBL2
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_23 "Chaos Slaughter"
+titlepatch CWILV153
+next SF13F_24
+secretnext SF13F_24
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F23
+exitpic 2013PIC
+intermusic D_2013IN
+
+
+map SF13F_24 "Joyless"
+titlepatch CWILV154
+next SF13F_25
+secretnext SF13F_25
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_THEDA3
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_25 "Temple of Judgement"
+titlepatch CWILV155
+next SF13F_26
+secretnext SF13F_26
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F25
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_26 "Dysphoria"
+titlepatch CWILV156
+next SF13F_27
+secretnext SF13F_27
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F26
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_27 "To Mega Therion"
+titlepatch CWILV157
+next SF13F_28
+secretnext SF13F_28
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F27
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_28 "Dholes"
+titlepatch CWILV158
+next SF13F_29
+secretnext SF13F_29
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_TENSE
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_29 "Escaping the Spiral Labyrinth"
+titlepatch CWILV159
+next SF13F_30
+secretnext SF13F_30
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F29
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_30 "Chronoblast"
+titlepatch CWILV160
+next SF13F_31
+secretnext SF13F_31
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F30
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_31 "With Fist in Hand"
+titlepatch CWILV161
+next SF13F_32
+secretnext SF13F_32
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F31
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_32 "Pacman"
+titlepatch CWILV162
+next SF13F_33
+secretnext SF13F_33
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF3F32
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_33 "Three Lines"
+titlepatch CWILV186
+next SF13F_34
+secretnext SF13F_34
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music SILENT
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_34 "Mult"
+titlepatch CWILV186
+next SF13F_35
+secretnext SF13F_35
+sky1 SKY4 0.2
+SkyStretch
+par 120
+sucktime 1
+music SILENT
+exitpic 2013PIC
+intermusic D_2013IN
+
+map SF13F_35 "Butt"
+titlepatch CWILV186
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music SILENT
+exitpic 2013PIC
+intermusic D_2013IN

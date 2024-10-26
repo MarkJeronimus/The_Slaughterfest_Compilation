@@ -1,0 +1,12 @@
+//ManiCs Map
+map MANIC_01 "Another Map (aka Ohno not more Doom)"
+{
+	titlepatch = "CWILV201"
+	next = "Hubmap"
+	secretnext = "Hubmap"
+	sky1 = "sky1",0.1
+	SkyStretch
+	exitpic = "DAINTER"
+	music = "D_MANI01"
+	intermusic = "D_DARINT"
+}

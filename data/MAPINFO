@@ -1,0 +1,28 @@
+//Mapinfo written by
+// >>>ReYalP<<< aka ManiC
+
+map HUBMAP "The Hub"
+exitpic HUBPIC	
+intermusic D_HUBMUS
+sky1 Sky2 0.5
+SkyStretch
+music D_THEHUB
+
+include "MAPINFO/CHILLAX.mapinfo"
+include "MAPINFO/SF11.mapinfo"
+include "MAPINFO/SF12.mapinfo"
+include "MAPINFO/SF13F.mapinfo"
+include "MAPINFO/SF13P.mapinfo"
+include "MAPINFO/NGMT1.mapinfo"
+include "MAPINFO/NGMT2.mapinfo"
+include "MAPINFO/MANIC.mapinfo"
+include "MAPINFO/CSHOCK1.mapinfo"
+include "MAPINFO/CSHOCK2.mapinfo"
+include "MAPINFO/PIZZA.mapinfo"
+include "MAPINFO/THESPIRE.mapinfo"
+include "MAPINFO/DARKTART.mapinfo"
+include "MAPINFO/SMAX.mapinfo"
+include "MAPINFO/NOSP2.mapinfo"
+include "MAPINFO/DMP17.mapinfo"
+	
+//Rewind! Press play on tape

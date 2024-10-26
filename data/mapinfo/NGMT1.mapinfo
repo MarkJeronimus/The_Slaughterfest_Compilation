@@ -1,0 +1,242 @@
+//New Gothic Movement 1
+
+map NGMT1_01 "New Gothic Movement I 1"
+titlepatch CWILV187
+next NGMT1_02
+secretnext NGMT1_02
+sky1 SKY3 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_NGM101
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_02 "New Gothic Movement I 2"
+titlepatch CWILV187
+next NGMT1_03
+secretnext NGMT1_03
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM102
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_03 "New Gothic Movement I 3"
+titlepatch CWILV187
+next NGMT1_04
+secretnext NGMT1_04
+sky1 SKY1 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM103
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_04 "New Gothic Movement I 4"
+titlepatch CWILV187
+next NGMT1_05
+secretnext NGMT1_05
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM104
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_05 "New Gothic Movement I 5"
+titlepatch CWILV187
+next NGMT1_06
+secretnext NGMT1_06
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM105
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_06 "New Gothic Movement I 6"
+titlepatch CWILV187
+next NGMT1_07
+secretnext NGMT1_07
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM106
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_07 "New Gothic Movement I 7"
+titlepatch CWILV187
+next NGMT1_08
+secretnext NGMT1_08
+map07special
+sky1 SKY1 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_NGM107
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_08 "New Gothic Movement I 8"
+titlepatch CWILV187
+next NGMT1_09
+secretnext NGMT1_09
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM108
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_09 "New Gothic Movement I 9"
+titlepatch CWILV187
+next NGMT1_10
+secretnext NGMT1_10
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM109
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_10 "New Gothic Movement I 10"
+titlepatch CWILV187
+next NGMT1_11
+secretnext NGMT1_11
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM110
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_11 "New Gothic Movement I 11"
+titlepatch CWILV187
+next NGMT1_12
+secretnext NGMT1_12
+sky1 SKY1 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM111
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_12 "New Gothic Movement I 12"
+titlepatch CWILV187
+next NGMT1_13
+secretnext NGMT1_13
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM112
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_13 "New Gothic Movement I 13(Edit)"
+titlepatch CWILV187
+next NGMT1_14
+secretnext NGMT1_14
+sky1 SKY3 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM113
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGM1O_13 "New Gothic Movement I 13"
+titlepatch CWILV187
+next NGMT1_14
+secretnext NGMT1_14
+sky1 SKY3 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_NGM113
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_14 "New Gothic Movement I 14"
+titlepatch CWILV187
+next NGMT1_15
+secretnext NGMT1_15
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM114
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_15 "New Gothic Movement I 15"
+titlepatch CWILV187
+next NGMT1_16
+secretnext NGMT1_16
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM115
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_16 "New Gothic Movement I 16"
+titlepatch CWILV187
+next NGMT1_17
+secretnext NGMT1_17
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM116
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_21 "New Gothic Movement I 21(Edit)"
+titlepatch CWILV187
+next NGMT1_21
+secretnext NGMT1_21
+sky1 SKY3 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_NGM121
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGM1O_21 "New Gothic Movement I 21"
+titlepatch CWILV187
+next NGMT1_21
+secretnext NGMT1_21
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM121
+exitpic GOT1PIC
+intermusic D_GOT1IN
+
+map NGMT1_31 "New Gothic Movement I 31"
+titlepatch CWILV187
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_NGM131
+exitpic GOT1PIC
+intermusic D_GOT1IN

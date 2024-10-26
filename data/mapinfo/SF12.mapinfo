@@ -1,0 +1,446 @@
+//Slaughterfest 2012
+
+map SF12_01 "Exodus"
+titlepatch CWILV48
+next SF12_02
+secretnext SF12_02
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1201
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_02 "Cashews"
+titlepatch CWILV49
+next SF12_03
+secretnext SF12_03
+sky1 SKY1 0.4
+SkyStretch
+par 120
+sucktime 1
+music D_SF1202
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_03 "Island of Mystery"
+titlepatch CWILV50
+next SF12_04
+secretnext SF12_04
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1203
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_04 "Pure Hate"
+titlepatch CWILV51
+next SF12_05
+secretnext SF12_05
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1204
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_05 "Fortress of Damnation"
+titlepatch CWILV52
+next SF12_06
+secretnext SF12_06
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1205
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_06 "Trifling"
+titlepatch CWILV53
+next SF12_07
+secretnext SF12_07
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1206
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_07 "Simply Dead"
+titlepatch CWILV54
+next SF12_08
+secretnext SF12_08
+map07special
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SHAWN
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_08 "Tingsryd"
+titlepatch CWILV55
+next SF12_09
+secretnext SF12_09
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1208
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_09 "Core Annihilation"
+titlepatch CWILV56
+next SF12_10
+secretnext SF12_10
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1209
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_10 "Total Recall"
+titlepatch CWILV57
+next SF12_11
+secretnext SF12_11
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1210
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_11 "Warborn"
+titlepatch CWILV58
+next SF12_12
+secretnext SF12_12
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1211
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_12 "Damnation"
+titlepatch CWILV59
+next SF12_13
+secretnext SF12_13
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1212
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_13 "Unleash the Fire"
+titlepatch CWILV60
+next SF12_14
+secretnext SF12_14
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1213
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_14 "Damned Legion"
+titlepatch CWILV61
+next SF12_15
+secretnext SF12_15
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1214
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_15 "Doomherolandia"
+titlepatch CWILV62
+next SF12_16
+secretnext SF12_16
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1215
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_16 "TwoBox"
+titlepatch CWILV63
+next SF12_17
+secretnext SF12_17
+sky1 SKY3 0.03
+SkyStretch
+par 120
+sucktime 1
+music D_SF1216
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_17 "Electric Wizard"
+titlepatch CWILV64
+next SF12_18
+secretnext SF12_18
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1217
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_18 "Last Cup of Sorrow"
+titlepatch CWILV65
+next SF12_19
+secretnext SF12_19
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1218
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_19 "Split Wide Open(Edit)"
+titlepatch CWILV66
+next SF12_20
+secretnext SF12_20
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1111
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12O_19 "Split Wide Open"
+titlepatch CWILV66
+next SF12_20
+secretnext SF12_20
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1111
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_20 "TrueGrit"
+titlepatch CWILV67
+next SF12_21
+secretnext SF12_21
+sky1 SKY3 0.4
+SkyStretch
+par 120
+sucktime 1
+music D_SF1220
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_21 "Walk with me in Hell"
+titlepatch CWILV68
+next SF12_22
+secretnext SF12_22
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1221
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_22 "Royale Arena"
+titlepatch CWILV69
+next SF12_23
+secretnext SF12_23
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1222
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_23 "Castle Lava"
+titlepatch CWILV70
+next SF12_24
+secretnext SF12_24
+sky1 SKY2 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_AMPIE
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12H_23 "Castle Lava (Hexen Edit)"
+titlepatch CWILV70
+next SF12_24
+secretnext SF12_24
+sky1 SKY2 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_AMPIE
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_24 "Banes Atrium"
+titlepatch CWILV71
+next SF12_25
+secretnext SF12_25
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1224
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_25 "Fourtress"
+titlepatch CWILV72
+next SF12_26
+secretnext SF12_26
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1225
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_26 "Crimson"
+titlepatch CWILV73
+next SF12_27
+secretnext SF12_27
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1226
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_27 "Decimal Error"
+titlepatch CWILV74
+next SF12_28
+secretnext SF12_28
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1227
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_28 "Slaughtenstien"
+titlepatch CWILV75
+next SF12_29
+secretnext SF12_29
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1228
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_29 "Degrassi"
+titlepatch CWILV76
+next SF12_30
+secretnext SF12_30
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1229
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_30 "Anathema"
+titlepatch CWILV77
+next SF12_31
+secretnext SF12_31
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1230
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_31 "Sworf"
+titlepatch CWILV78
+next SF12_32
+secretnext SF12_32
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_EVIL
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_32 "Brookhaven Hospital"
+titlepatch CWILV79
+next SF12_33
+secretnext SF12_33
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_ULTIMA
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_33 "BoomTown"
+titlepatch CWILV80
+next SF12_34
+secretnext SF12_34
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1233
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_34 "Hard Contact"
+titlepatch CWILV81
+next SF12_35
+secretnext SF12_35
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1234
+exitpic 2012PIC
+intermusic D_2012IN
+
+map SF12_35 "KSP"
+titlepatch CWILV82
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1235
+exitpic 2012PIC
+intermusic D_2012IN

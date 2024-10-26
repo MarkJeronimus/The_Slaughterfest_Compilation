@@ -1,0 +1,16 @@
+syntax: regexp
+
+#Generic
+[^/]+\.bak$
+[^/]+\.~$
+
+#OS
+^(.+/)?thumbs\.db$
+^(.+/)?\.DS_Store$
+
+#LibreOffice
+^(.+/)?\.~lock\.[^/]+#$
+
+#Project
+[^/]+\.pk3$
+

@@ -1,0 +1,222 @@
+//New Gothic Movement 1
+map NGMT1_01 "New Gothic Movement I 1"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_02"
+	secretnext = "NGMT1_02"
+	sky1 = "sky3",0.2
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM101"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_02 "New Gothic Movement I 2"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_03"
+	secretnext = "NGMT1_03"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM102"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_03 "New Gothic Movement I 3"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_04"
+	secretnext = "NGMT1_04"
+	sky1 = "sky1",0.3
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM103"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_04 "New Gothic Movement I 4"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_05"
+	secretnext = "NGMT1_05"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM104"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_05 "New Gothic Movement I 5"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_06"
+	secretnext = "NGMT1_06"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM105"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_06 "New Gothic Movement I 6"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_07"
+	secretnext = "NGMT1_07"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM106"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_07 "New Gothic Movement I 7"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_08"
+	secretnext = "NGMT1_08"
+	map07special
+	sky1 = "sky1",0.2
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM107"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_08 "New Gothic Movement I 8"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_09"
+	secretnext = "NGMT1_09"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM108"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_09 "New Gothic Movement I 9"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_10"
+	secretnext = "NGMT1_10"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM109"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_10 "New Gothic Movement I 10"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_11"
+	secretnext = "NGMT1_11"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM110"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_11 "New Gothic Movement I 11"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_12"
+	secretnext = "NGMT1_12"
+	sky1 = "sky1",0.3
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM111"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_12 "New Gothic Movement I 12"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_13"
+	secretnext = "NGMT1_13"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM112"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_13 "New Gothic Movement I 13(edit)"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_14"
+	secretnext = "NGMT1_14"
+	sky1 = "sky3",0.3
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM113"
+	intermusic = "D_GOT1IN"
+}
+map NGM1O_13 "New Gothic Movement I 13"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_14"
+	secretnext = "NGMT1_14"
+	sky1 = "sky3",0.3
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM113"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_14 "New Gothic Movement I 14"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_15"
+	secretnext = "NGMT1_15"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM114"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_15 "New Gothic Movement I 15"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_16"
+	secretnext = "NGMT1_16"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM115"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_16 "New Gothic Movement I 16"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_21"
+	secretnext = "NGMT1_21"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM116"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_21 "New Gothic Movement I 21(edit)"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_31"
+	secretnext = "NGMT1_31"
+	sky1 = "sky3",0.2
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM121"
+	intermusic = "D_GOT1IN"
+}
+map NGM1O_21 "New Gothic Movement I 21"
+{
+	titlepatch = "CWILV187"
+	next = "NGMT1_31"
+	secretnext = "NGMT1_31"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM121"
+	intermusic = "D_GOT1IN"
+}
+map NGMT1_31 "New Gothic Movement I 31"
+{
+	titlepatch = "CWILV187"
+	next = "Hubmap"
+	secretnext = "Hubmap"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "GOT1PIC"
+	music = "D_NGM131"
+	intermusic = "D_GOT1IN"
+}

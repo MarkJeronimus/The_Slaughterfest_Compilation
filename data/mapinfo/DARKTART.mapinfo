@@ -1,0 +1,436 @@
+//Dark TarTarus
+
+map DARK_01 "Arch Bridge"
+    next DARK_02
+    sky1 SKYML2 0.02
+	SkyStretch
+    par 120
+    sucktime 1
+    music D_TAT01
+    exitpic DARKPIC
+    intermusic D_DARKIN
+
+map DARK_02 "Final Destination"
+    next DARK_03
+    sky1 SKYML2 0.02
+	SkyStretch
+    par 120
+    sucktime 1
+    music D_TAT02
+    exitpic DARKPIC
+    intermusic D_DARKIN
+
+map DARK_03 "Lunatic's Game"
+    next DARK_04
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT03
+	exitpic DARKPIC
+	intermusic D_DARKIN	
+
+map DARK_04 "Nothing Special"
+    next DARK_05
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT04
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_05 "The Gate"
+    next DARK_06
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT05
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_06 "WOW:Finished"
+    next DARK_07
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT06
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_07 "Open Season"
+    map07special 
+    next DARK_08
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT07
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_08 "Ground Zero"
+    next DARK_09
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT08
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_09 "Extreme Caution"
+    next DARK_10
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT09
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_10 "Skyscraper"
+    next DARK_11
+    sky1 SKYML2 0.2
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT10
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_11 "Hex"
+    next DARK_12
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT11
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_12 "The Last Settlement"
+    next DARK_13
+    sky1 SKYML1 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT12
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_13 "Pancake'd"
+    next DARK_14
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT13
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_14 "Doors of Troll"
+    next DARK_15
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT14
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+
+map DARK_15 "Path of Light"
+    next DARK_16
+    secretnext DARK_31
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT15
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_16 "Lake Rumor"
+    next DARK_17
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT16
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_17 "Rituals and Ceremonies"
+    next DARK_18
+    sky1 SKYML5 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT17
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_18 "Contra"
+    next DARK_19
+    sky1 SKYML9 0.3
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT18
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_19 "Dimensions"
+    next DARK_20
+    sky1 SKY2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT19
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_20 "Frozen Throne"
+    next DARK_21
+    sky1 SKYML3 0.1
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT20
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_21 "The Killer's Breed"
+    next DARK_22
+    sky1 SKYML5 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT21
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_22 "Facing World"
+    next DARK_23
+    sky1 SKYML1 0.4
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT22
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_23 "Nowhere"
+    next DARK_24
+    sky1 SKY3 0.03
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT23
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_24 "Revive Station"
+    next DARK_25
+    sky1 SKY2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT24
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_25 "BFG Charge"
+    next DARK_26
+    sky1 SKY3 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT25
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_26 "Corridor of Doom"
+    next DARK_27
+    sky1 SKY3 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT26
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_27 "Doomer's Room"
+    next DARK_28
+    sky1 SKY3 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT27
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_28 "The Vestibule of Hell"
+    next DARK_29
+    sky1 SKY3 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT28
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_29 "Dark Tartarus"
+    next DARK_30
+    sky1 SKYML1 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT29
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_30 "Boom! Headshot"
+    next DARK_33
+    sky1 SKY3 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT30
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_31 "Return to Wolfenstein"
+    next DARK_16
+    secretnext DARK_32
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT31
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_32 "The Cursed Marine"
+    next DARK_16
+    sky1 SKYML1 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT32
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_33 "Welcome"
+    next DARK_34
+    sky1 SKYML1 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT33
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_34 "Shallow Grave"
+    next DARK_35
+    sky1 SKYML1 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT34
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_35 "Devil's Tower"
+    next DARK_36
+    sky1 SKYML8 0.3
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT35
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_36 "Behind the Sky"
+    next DARK_37
+    sky1 SKYML6 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT36
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_37 "Truly Evil"
+    next DARK_38
+    sky1 SKYML5 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT37
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_38 "Skull Hunt"
+    next DARK_39
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT38
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_39 "Dead Tonight"
+    next DARK_40
+    sky1 SKYML5 0.3
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT39
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_40 "Horrible Things"
+    next DARK_41
+    sky1 SKYML5 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT40
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_41 " "
+    next DARK_42
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT41
+	exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_42 "Beat Doom V0.01"
+    next DARK_43
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT42
+    exitpic DARKPIC
+	intermusic D_DARKIN
+
+map DARK_43 "LOCK 'N' LOAD"
+    next Hubmap
+    secretnext Hubmap
+    sky1 SKYML2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_TAT43
+	exitpic DARKPIC
+	intermusic D_DARKIN

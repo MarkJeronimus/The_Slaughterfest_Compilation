@@ -1,0 +1,129 @@
+Chillax Maps originally -
+edited by Zorro and his accomplice Mysterio!
+This Compilation was constructed 
+by >>>ReYalP<<< aka ManiC
+[Hims] improvements included 
+
+New Gothic Movement 2
+Changes 1.0:
+- Maps renamed from MAP01 to MAP31 to MAP131 to MAP146-(Him) 
+  (maps now 115-130)-(>>>ReYalP<<<)
+- Map16 with more than 32k actors removed (crash coop, crash zandronum server)
+- Music files removed, replaced by SF 2012 music 6 tracks 
+  (original music reinstated)
+- MAPINFO file updated with map numbers and music file names
+  (Zmapinfo added and mapinfo completely rewritten)
+- Updates with sprites for sky RSKY1, RSKY2, RSKY3
+- Added Chillax red sky as RSKY4 (ecosky)
+
+Changes 1.1:
+- map 115 fix door open/reopen, main room switch fix (remove linedef)
+- map 125 fix, main door stays open after linedef
+
+Changes 1.3 (1.2):
+- map 124 fix, removed bars to exit, added new linedef with action 24976, Tag 9
+
+SlaughterFest2012
+Changes 1.0:
+- Maps renamed from MAP01 to MAP25 to MAP50 to MAP85 
+  (maps now 48-82)
+- Music files renamed to D_SL01 to D_SL06, rest of music removed 
+  (Music reinstated)
+- MAPINFO file updated with map numbers and music file names 
+  (Zmapinfo added and mapinfo completely rewritten)
+- Removed original DEHACKED file with custom map names etc 
+  (map names reinstated but in mapinfo)
+
+Changes 1.1:
+- Updates with correct sprites for Chainsaw CSAWA0, SAWGA0, SAWGB0, SAWGC0, SAWGD0
+- Updates with correct sprites for sky RSKY1, RSKY2, RSKY3
+- Added Chillax red sky as RSKY4 (ecosky)
+- Chainsaw saw-up sound made with correct sound DSSAWUP
+
+Changes in 1.2:
+- map 54 start fix with manual door open, door in silver color
+- map 71 fix with manual bar open
+
+Changes in 1.3:
+- map 60 fix, room with yellow key teleport open is triggered before bars (action 38, Tag 56)
+- map 67 fix, room with blue key now opens teleport and triggers, if door is approached/crossed (action 38, Tag 9)
+- map 71 fix, tall bars can be reopened (action 31 to 115), changed to door texture, 3 bars left on script
+
+Slaghterfest2011
+Changes 1.0:
+- Maps renamed from MAP01 to MAP32 to MAP91 to MAP122 
+  (maps now 83-114)
+- Music files removed, replaced by SF 2012 music 6 tracks 
+  (original music reinstated)
+- MAPINFO file updated with map numbers and music file names 
+  (Zmapinfo added and mapinfo completely rewritten)
+- Removed original DEHACKED file (_not_use) with custom map names etc
+- Updates with correct sprites for Chainsaw CSAWA0, SAWGA0, SAWGB0, SAWGC0, SAWGD0
+- Updates with correct sprites for sky RSKY1, RSKY2, RSKY3
+- Added Chillax red sky as RSKY4 (ecosky)
+
+Changes 1.1:
+- Bug, MAP7115 name renamed to MAP115 (aka 107)
+- Bug, MAP7113 label renamed to MAP113 (aka 105)
+
+Changes 1.2:
+- map 102 yellow door fix, door can be reopened
+- map 110 teleport fix (all teleports reusable code 39 to 97)
+
+Changes 1.3:
+- map 110 teleport refix, one teleport was broken (code 39 to 97, linedef 5503), cyber removed behind teleport.
+  map should be possible to complete now
+Changes to 1.4
+- made a work around for map 89 as normally unfinishable as voodoo doll broken
+added triggers around the 4 corners to open the walls to the cybers and exits.  
+Changes to 1.5
+- Bug Fix with map 89 marines spawning in voodoodoll zone
+  (map98 set back to how it was it doesnt need a voodoodoll
+  it uses map07special set in zmapinfo that is now in place
+  you have to kill all the mancubus to trigger the first action
+  then kill the spiders to open the exits)
+
+SlaughterFest 2013 
+Based on: 2013_pre-release_v4.wad
+and now including Beta_C release too
+Changes 1.0:
+- Maps renamed from MAP01-MAP32 to MAP150-MAP181 
+  (new maps 132,135,136,137,138,139,140,142,144,145,146,147,148,151,152,153,155,156,157,160,161)
+  (maps now 131,133,134,141,143,149,150,154,158,159,162,163,164,165 final release)
+  (maps now 166-182 pre-release)
+- ZMAPINFO renamed to MAPINFO, file updated with map numbers 
+  (zmapinfo added and mapinfo completely rewritten)
+- Updates with correct sprites for Chainsaw CSAWA0, SAWGA0, SAWGB0, SAWGC0, SAWGD0
+- Updates with correct sprites for sky RSKY1, RSKY2, RSKY3
+- Added Chillax red sky as RSKY4 (ecosky)
+- Chainsaw saw-up sound made with correct sound DSSAWUP
+- DEHACKED comment out map names and weapons 
+  (Dehacked renamed to unhacked and all available map names written to mapinfo)
+- Soundtracks rename with D_X not to affect other wads 
+  (all music now renamed to D_MAP apart from initial 32) 
+
+Changes 1.1:
+- map 180 fix: teleports were one time use (W1/39) and not reuse (WR/97)
+- map 158 fix: room with red key added 4th large door lowering action (24728/46),
+  start elevator to exit texture changed to exit sign, level exit linedef updated (not a switch)
+- map 178 fix: there was no exit, exit linedefs added
+
+Changes 1.2
+- Added missing Textures. Increase in filesize
+Changes 1.2.6.4
+- nulled gate triggers on gates at shut and cannot be opened from the outside making the maps 
+-unfinishable on maps 168,171,149)
+- also removed the icon of sin exit from maps 141,162,163,149,156 and replaced with normal exit
+-Due to it not allowing the monster counter to work
+-also removed the icon of sin from 168 but thats to big to be used with MoP
+ Maps from 2013 Beta_C now included, overall textures updated flats updated new maps added textureX updated animated rewritten
+ switches rewritten zmapinfo and mapinfo rewritten all midi tunes included map titles intermission screens and music. 
+ I've done multible tests but the main test will be online. 
+ This compilation should remove the hassle of using multiple map wads,
+ well for MoPs current listings.  >>>ReYalP<<< aka ManiC
+ added New Gothic Movement 1 map set to the compilation just for completeness and it brings the number of maps up to 200 exactly.
+ Maps 01-16 now 183-198 map21 now 199 map31 now 200
+ Renamed Switches to Twitches Animated to Urinated and added Animdefs
+ Renamed Texture1 to Denture1 and added Textures 
+New Changes
+ Remade the whole lot into a pk3

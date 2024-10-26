@@ -1,0 +1,410 @@
+//Slaughterfest 2011
+
+map SF11_01 "Apple Acres"
+titlepatch CWILV83
+next SF11_02
+secretnext SF11_02
+sky1 SKY3 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1101
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_02 "Control Freak"
+titlepatch CWILV84
+next SF11_03
+secretnext SF11_03
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1102
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_03 "Lull"
+titlepatch CWILV85
+next SF11_04
+secretnext SF11_04
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1103
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_04 "North"
+titlepatch CWILV86
+next SF11_05
+secretnext SF11_05
+sky1 SKY2 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1104
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_05 "Eyes and Ears"
+titlepatch CWILV87
+next SF11_06
+secretnext SF11_06
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1105
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_06 "Earthquake"
+titlepatch CWILV88
+next SF11_07
+secretnext SF11_07
+sky1 SKY4 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_SF1106
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_07 "Lull Remix"
+titlepatch CWILV89
+next SF11_08
+secretnext SF11_08
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1107
+map07special
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_08 "Metsu"
+titlepatch CWILV90
+next SF11_09
+secretnext SF11_09
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1108
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_09 "Ginipiggu"
+titlepatch CWILV91
+next SF11_10
+secretnext SF11_10
+sky1 SKY3 0.3
+SkyStretch
+par 120
+sucktime 1
+music D_SF1109
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_10 "True Violence"
+titlepatch CWILV92
+next SF11_11
+secretnext SF11_11
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1110
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_11 "Satsui No Hado"
+titlepatch CWILV93
+next SF11_12
+secretnext SF11_12
+sky1 SKY1 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1111
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_12 "Ultra"
+titlepatch CWILV94
+next SF11_13
+secretnext SF11_13
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1112
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_13 "Kama Sutra Lite"
+titlepatch CWILV95
+next SF11_14
+secretnext SF11_14
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1113
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_14 "Unholy Courtyard"
+titlepatch CWILV96
+next SF11_15
+secretnext SF11_15
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_DDTBL2
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_15 "Killtastrophe"
+titlepatch CWILV97
+next SF11_16
+secretnext SF11_16
+sky1 SKY1 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1115
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_16 "Night Train"
+titlepatch CWILV98
+next SF11_17
+secretnext SF11_17
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1116
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_17 "Soup"
+titlepatch CWILV99
+next SF11_18
+secretnext SF11_18
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1117
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_18 "MetalFuneral Remix"
+titlepatch CWILV100
+next SF11_19
+secretnext SF11_19
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1118
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF110_18 "MetalFuneral"
+titlepatch CWILV100
+next SF11_19
+secretnext SF11_19
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1118
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_19 "Waffles"
+titlepatch CWILV101
+next SF11_20
+secretnext SF11_20
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1119
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_20 "Slotter"
+titlepatch CWILV102
+next SF11_21
+secretnext SF11_21
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_MESSAG
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_21 "Junk1"
+titlepatch CWILV103
+next SF11_22
+secretnext SF11_22
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_COUNT2
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_22 "00Shit1"
+titlepatch CWILV104
+next SF11_23
+secretnext SF11_23
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_DDTBL3
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_23 "00Barf1"
+titlepatch CWILV105
+next SF11_24
+secretnext SF11_24
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_AMPIE
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_24 "Untitled"
+titlepatch CWILV106
+next SF11_25
+secretnext SF11_25
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1124
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_25 "Cat"
+titlepatch CWILV107
+next SF11_26
+secretnext SF11_26
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1125
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_26 "Mouse"
+titlepatch CWILV108
+next SF11_27
+secretnext SF11_27
+sky1 SKY4 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SF1126
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_27 "Supernib"
+titlepatch CWILV109
+next SF11_28
+secretnext SF11_28
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_ROMER2
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_28 "Em1all"
+titlepatch CWILV110
+next SF11_29
+secretnext SF11_29
+sky1 SKY2 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_TENSE
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_29 "Chocolate Pain"
+titlepatch CWILV111
+next SF11_30
+secretnext SF11_30
+sky1 SKY3 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_SHAWN3
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_30 "Mixed Nuts"
+titlepatch CWILV112
+next SF11_31
+secretnext SF11_31
+sky1 SKY4 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1130
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_31 "Crest of Simlicity Part 2(Edit)"
+titlepatch CWILV113
+next SF11_32
+secretnext SF11_32
+sky1 SKY1 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_EVIL
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11O_31 "Crest of Simlicity Part 2"
+titlepatch CWILV113
+next SF11_32
+secretnext SF11_32
+sky1 SKY1 0.02
+SkyStretch
+par 120
+sucktime 1
+music D_EVIL
+exitpic 2011PIC
+intermusic D_2011IN
+
+map SF11_32 "BananaBread"
+titlepatch CWILV114
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY2 0.2
+SkyStretch
+par 120
+sucktime 1
+music D_SF1132
+exitpic 2011PIC
+intermusic D_2011IN

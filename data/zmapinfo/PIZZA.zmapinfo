@@ -1,0 +1,323 @@
+// Pizza Steve
+map PIZZA_01 "Pizza Steve's Big Number One"
+	{
+	next = "PIZZA_02"
+	sky1 = "SKY1",0.2
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_runnin"
+	intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_02 "Pizza Steve's Big Number Two"
+	{
+	next = "PIZZA_03"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_stalks"
+	intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_03 "Pizza Steve's Big Number Three"
+	{
+	next = "PIZZA_04"
+	sky1 = "SKY3",0.4
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_countd"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_04 "Pizza Steve's Big Number Four"
+	{
+	next = "PIZZA_05"
+	sky1 = "SKY1",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_betwee"
+	intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_05 "Pizza Steve's Big Number Five"
+	{
+	next = "PIZZA_06"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_doom"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_06 "Pizza Steve's Big Number Six"
+	{
+	next = "PIZZA_07"
+	sky1 = "SKY3",0.4
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_the_da"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_07 "Pizza Steve's Big Number Seven"
+	{
+	next = "PIZZA_08"
+	map07special
+	sky1 = "SKY4",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_shawn"	
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_08 "Pizza Steve's Big Number Eight"
+	{
+	next = "PIZZA_09"
+	sky1 = "SKY1",0.3
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_ddtblu"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_09 "Pizza Steve's Big Number Nine"
+	{
+	next = "PIZZA_10"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_in_cit"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_10 "Pizza Steve's Big Number Ten"
+	{
+	next = "PIZZA_11"
+	sky1 = "SKY3",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_dead"	
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_11 "Pizza Steve's Big Number Eleven"
+	{
+	next = "PIZZA_12"
+	sky1 = "SKY4",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_stlks2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_12 "Pizza Steve's Big Number Twelve"
+	{
+	next = "PIZZA_13"
+	sky1 = "SKY1",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_theda2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_13 "Pizza Steve's Big Number Thirteen"
+	{
+	next = "PIZZA_14"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_doom2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_14 "Pizza Steve's Big Number Fourteen"
+	{
+	next = "PIZZA_15"
+	sky1 = "SKY3",0.4
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_ddtbl2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_15 "Pizza Steve's Big Number Fifteen"
+	{
+	next = "PIZZA_16"
+	secretnext = "PIZZA_31"
+	SkyStretch
+	sky1 = "SKY4",0.02
+	exitpic = "PIZZAPIC"
+	music = "d_runni2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_16 "Pizza Steve's Big Number Sixteen"
+	{
+	next = "PIZZA_17"
+	sky1 = "SKY1",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_dead2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_17 "Pizza Steve's Big Number Seventeen"
+	{
+	next = "PIZZA_18"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_stlks3"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_18 "Pizza Steve's Big Number Eighteen"
+	{
+	next = "PIZZA_19"
+	sky1 = "SKY3",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_romero"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_19 "Pizza Steve's Big Number Nineteen"
+	{
+	next = "PIZZA_20"
+	sky1 = "SKY4",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_shawn2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_20 "Pizza Steve's Big Number Twenty"
+	{
+	next = "PIZZA_21"
+	sky1 = "SKY1",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_messag"
+	intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_21 "Pizza Steve's Big Number Twenty-One"
+	{
+	next = "PIZZA_22"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_count2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_22 "Pizza Steve's Big Number Twenty-Two"
+	{
+	next = "PIZZA_23"
+	sky1 = "SKY3",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_ddtbl3"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_23 "Pizza Steve's Big Number Twenty-Three"
+	{
+	next = "PIZZA_24"
+	sky1 = "SKY4",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_ampie"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_24 "Pizza Steve's Big Number Twenty-Four"
+	{
+	next = "PIZZA_25"
+	sky1 = "SKY1",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_theda3"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_25 "Pizza Steve's Big Number Twenty-Five"
+	{
+	next = "PIZZA_26"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_adrian"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_26 "Pizza Steve's Big Number Twenty-Six"
+	{
+	next = "PIZZA_27"
+	sky1 = "SKY3",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_messg2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_27 "Pizza Steve's Big Number Twenty-Seven"
+	{
+	next = "PIZZA_28"
+	sky1 = "SKY4",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_romer2"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_28 "Pizza Steve's Big Number Twenty-Eight"
+	{
+	next = "PIZZA_29"
+	sky1 = "SKY1",0.3
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_tense"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_29 "Pizza Steve's Big Number Twenty-Nine"
+	{
+	next = "PIZZA_30"
+	sky1 = "SKY2",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_shawn3"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_30 "Pizza Steve's Big Number Thirty"
+	{
+	next = "Hubmap"
+	sky1 = "SKY3",0.02
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_openin"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_31 "Pizza Steve's Big Secret Number One"
+	{
+	next = "PIZZA_16"
+	secretnext = "PIZZA_32"
+	SkyStretch
+	sky1 = "SKY4",0.02
+	exitpic = "PIZZAPIC"
+	music = "d_evil"
+    intermusic = "D_PIZZA"
+	}
+	
+map PIZZA_32 "Pizza Steve's Big Secret Number Two"
+	{
+	next = "PIZZA_16"
+	sky1 = "SKY1",0.2
+	SkyStretch
+	exitpic = "PIZZAPIC"
+	music = "d_ultima"
+    intermusic = "D_PIZZA"
+	}

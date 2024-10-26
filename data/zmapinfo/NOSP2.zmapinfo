@@ -1,0 +1,373 @@
+//NoSp2
+map NOSP2_01 "Crossroads"
+{
+     titlepatch = "CWILV246"
+     next = "NOSP2_02"
+     secretnext = "NOSP2_02"
+     sky1 = "SKYCLOU3",0.3
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS201"
+}
+map NOSP2_02 "Last Day At The Techbase"
+{
+     titlepatch = "CWILV247"
+     next = "NOSP2_03"
+     secretnext = "NOSP2_03"
+     sky1 = "SKYCLOU3",0.4
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS202"
+}
+map NOSP2_03 "Death's Court"
+{
+     titlepatch = "CWILV248"
+     next = "NOSP2_04"
+     secretnext = "NOSP2_04"
+     sky1 = "SKY-R04",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS203"
+}
+ map NOSP2_04 "Waste Management"
+{
+     titlepatch = "CWILV249"
+     next = "NOSP2_05"
+     secretnext = "NOSP2_05"
+     sky1 = "SKY-G04"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS204"
+}
+map NOSP2_05 "Grim's Keep"
+{
+     titlepatch = "CWILV250"
+     next = "NOSP2_06"
+     secretnext = "NOSP2_06"
+     sky1 = "SKY-R04",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS205"
+}
+map NOSP2_06 "Revival of the Fittest"
+{
+     titlepatch = "CWILV251"
+     next = "NOSP2_07"
+     secretnext = "NOSP2_07"
+     sky1 = "SKY-ST01",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS206"
+}
+map NOSP2_07 "Living Complex"
+{
+     titlepatch = "CWILV252"
+     next = "NOSP2_08"
+     secretnext = "NOSP2_08"
+     sky1 = "SKY-ST01",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS207"
+}
+map NOSP2_08 "High Rise"
+{
+     titlepatch = "CWILV253"
+     next = "NOSP2_09"
+     secretnext = "NOSP2_09"
+     sky1 = "SKY-CIT1"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS208"
+}
+map NOSP2_09 "Flooded Tunnels"
+{
+    titlepatch = "CWILV254"
+    next = "NOSP2_10"
+    secretnext = "NOSP2_10"
+    sky1 = "SKY-CIT1"
+	SkyStretch
+	exitpic = "NOSP2PIC"
+	intermusic = "D_NOS2IN"
+    music = "D_NOS209"
+}
+map NOSP2_10 "Just Kidding, Back to the Techbase"
+{
+     titlepatch = "CWILV255"
+     next = "NOSP2_11"
+     secretnext = "NOSP2_11"
+     sky1 = "SKY-CIT1"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS210"
+}
+map NOSP2_11 "A Normal Doom Map"
+{
+     titlepatch = "CWILV256"
+     next = "NOSP2_12"
+     secretnext = "NOSP2_12"
+     sky1 = "SKY-CIT1"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS211"
+}
+map NOSP2_12 "Factory Chambers"
+{
+     titlepatch = "CWILV257"
+     next = "NOSP2_13"
+     secretnext ="NOSP2_13"
+     sky1 = "SKY-CIT1"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS212"
+}
+map NOSP2_13 "Escaping the City"
+{
+     titlepatch = "CWILV258"
+     next = "NOSP2_14"
+     secretnext = "NOSP2_14"
+     sky1 = "SKY-CIT1"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS213"
+}
+map NOSP2_14 "Ascension"
+{
+     titlepatch = "CWILV259"
+     next = "NOSP2_15"
+     secretnext = "NOSP2_15"
+     sky1 = "SKYE4BLU",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS214"
+}
+map NOSP2_15 "Gladiator"
+{
+     titlepatch = "CWILV260"
+     next = "NOSP2_16"
+     secretnext = "NOSP2_31"
+     sky1 = "SKYE4BLU",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS215"
+}
+map NOSP2_16 "Temple in the Stars"
+{
+     titlepatch = "CWILV261"
+     next = "NOSP2_17"
+     secretnext = "NOSP2_17"
+     sky1 = "SKY-ST01",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS216"
+}
+map NOSP2_17 "The Last Stand"
+{
+     titlepatch = "CWILV262"
+     next = "NOSP2_18"
+     secretnext = "NOSP2_18"
+     sky1 = "SKY-B02",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS217"
+}
+map NOSP2_18 "The Gorge"
+{
+     titlepatch = "CWILV263"
+     next = "NOSP2_19"
+     secretnext = "NOSP2_19"
+     sky1 = "SKY-B01"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS218"
+}
+map NOSP2_19 "Breakout"
+{
+     titlepatch = "CWILV264"
+     next = "NOSP2_20"
+     secretnext = "NOSP2_20"
+     sky1 = "SKY-B01"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS219"
+}
+map NOSP2_20 "Hell's Outpost"
+{
+     titlepatch = "CWILV265"
+     next = "NOSP2_21"
+     secretnext = "NOSP2_21"
+     sky1 = "SKY-R08",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS220"
+}
+map NOSP2_21 "Chambers of Ruin"
+{
+     titlepatch = "CWILV266"
+     next = "NOSP2_22"
+     secretnext = "NOSP2_22"
+     sky1 = "SKY-R08",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS221"
+}
+map NOSP2_22 "The Resistance Will Go On"
+{
+     titlepatch = "CWILV267"
+     next = "NOSP2_23"
+     secretnext = "NOSP2_23"
+     sky1 = "SKY-GR01",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS222"
+}
+map NOSP2_23 "Paradigm Shift"
+{
+     titlepatch = "CWILV268"
+     next = "NOSP2_24"
+     secretnext = "NOSP2_24"
+     sky1 = "SKY-GR02",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS223"
+}
+map NOSP2_24 "Rite of Passage"
+{
+     titlepatch = "CWILV269"
+     next = "NOSP2_25"
+     secretnext = "NOSP2_25"
+     sky1 = "SKYSKULL",0.2
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS224"
+}
+map NOSP2_25 "Final Refuge"
+{
+     titlepatch = "CWILV270"
+     next = "NOSP2_26"
+     secretnext = "NOSP2_26"
+     sky1 = "SKY-GR03",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS225"
+}
+map NOSP2_26 "Crimson Death"
+{
+     titlepatch = "CWILV271"
+     next = "NOSP2_27"
+     secretnext = "NOSP2_27"
+     sky1 = "SKY-R06",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS226"
+}
+map NOSP2_27 "Emerald Station"
+{
+     titlepatch = "CWILV272"
+     next = "NOSP2_28"
+     secretnext = "NOSP2_28"
+     sky1 = "SKY-GR02",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS227"
+}
+map NOSP2_28 "Cliffs of the Wasteland"
+{
+     titlepatch = "CWILV273"
+     next = "NOSP2_29"
+     secretnext = "NOSP2_29"
+     sky1 = "SKY-B02",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS228"
+}
+map NOSP2_29 "Slaughter of the Damned"
+{
+     titlepatch = "CWILV274"
+     next = "NOSP2_30"
+     secretnext = "NOSP2_30"
+     sky1 = "SKY-R03",0.02
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS229"
+}
+map NOSP2_30 "Shattered"
+{
+     titlepatch = "CWILV275"
+     next = "HUBMAP"
+     secretnext = "NOSP2_33"
+     sky1 = "SKY-ST02"
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS230"
+}
+map NOSP2_31 "Platformer's Paradise"
+{
+     titlepatch = "CWILV276"
+     next = "NOSP2_16"
+     secretnext = "NOSP2_32"
+     sky1 = "SKY-R07",0.2
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS231"
+}
+map NOSP2_32 "Cyber's Space"
+{
+     titlepatch = "CWILV277"
+     next = "NOSP2_16"
+     secretnext = "NOSP2_16"
+     sky1 = "SKY-R07",0.2
+	 SkyStretch
+	 exitpic = "NOSP2PIC"
+	 intermusic = "D_NOS2IN"
+     music = "D_NOS232"
+}
+map NOSP2_33 "Color-Coded Chaos"
+{
+	next = "HUBMAP"
+	secretnext = "NOSP2_34"
+	sky1 = "SKY-R07",0.2
+	SkyStretch
+	exitpic = "NOSP2PIC"
+	intermusic = "D_NOS2IN"
+	music = "D_NOS233"
+}
+map NOSP2_34 "Grand Finale"
+{
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
+	sky1 = "SKY-O03",0.02
+	SkyStretch
+	exitpic = "NOSP2PIC"
+	intermusic = "D_NOS2IN"
+	music = "D_NOS234"
+}

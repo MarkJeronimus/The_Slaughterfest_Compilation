@@ -1,0 +1,45 @@
+//Combat Shock 1
+map CSHK1_01 "Agitator"
+{
+	titlepatch = "CWILV210"
+	next = "CSHK1_02"
+	secretnext = "CSHK1_02"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "COMB1PIC"
+	music = "D_CSH101"
+	intermusic = "D_COMBA1"
+}
+map CSHK1_02 "Gozu"
+{
+	titlepatch = "CWILV211"
+	next = "CSHK1_03"
+	secretnext = "CSHK1_03"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "COMB1PIC"
+	music = "D_CSH102"
+	intermusic = "D_COMBA1"
+}
+map CSHK1_03 "Fudoh"
+{
+	titlepatch = "CWILV212"
+	next = "CSHK1_04"
+	secretnext = "CSHK1_04"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "COMB1PIC"
+	music = "D_CSH103"
+	intermusic = "D_COMBA1"
+}
+map CSHK1_04 "Messatsu"
+{
+	titlepatch = "CWILV213"
+	next = "Hubmap"
+	secretnext = "Hubmap"
+	sky1 = "sky1",0.2
+	SkyStretch
+	exitpic = "COMB1PIC"
+	music = "D_CSH104"
+	intermusic = "D_COMBA1"
+}

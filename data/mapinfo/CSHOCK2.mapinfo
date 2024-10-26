@@ -1,0 +1,71 @@
+//Combat Shock 2
+
+map CSHK2_01 "Aftermath"
+titlepatch CWILV202
+next CSHK2_02
+secretnext CSHK2_02
+sky1 sky2 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK01
+intermusic D_COMBAT
+
+map CSHK2_02 "Rope or Bullet"
+titlepatch CWILV203
+next CSHK2_03
+secretnext CSHK2_03
+sky1 sky2 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK02
+intermusic D_COMBAT
+
+map CSHK2_03 "Hone Gumi"
+titlepatch CWILV204
+next CSHK2_04
+secretnext CSHK2_04
+sky1 sky4 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK03
+intermusic D_COMBAT
+
+map CSHK2_04 "Rapid Fire"
+titlepatch CWILV205
+next CSHK2_05
+secretnext CSHK2_05
+sky1 sky1 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK04
+intermusic D_COMBAT
+
+map CSHK2_05 "Boiling Point"
+titlepatch CWILV206
+next CSHK2_06
+secretnext CSHK2_06
+sky1 sky2 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK05
+intermusic D_COMBAT
+
+map CSHK2_06 "Closure"
+titlepatch CWILV207
+next CSHK2_07
+secretnext CSHK2_07
+sky1 sky3 0.2
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK06
+intermusic D_COMBAT
+
+map CSHK2_07 "Shocked for Life"
+titlepatch CWILV208
+next HUBMAP
+secretnext HUBMAP
+sky1 sky4 0.02
+SkyStretch
+exitpic COMBAPIC
+music D_CSHK07
+intermusic D_COMBAT

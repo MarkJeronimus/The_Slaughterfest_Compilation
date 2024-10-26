@@ -1,0 +1,64 @@
+===========================================================================
+Archive Maintainer      : Sorry for breaking the 50 mb limit, I tried my best to keep the size down, there are 43 maps inside, please consider it wad and a half :p thanks
+Advanced engine needed  : zdoom/gzdoom/Skulltag/Zandronum (Best played with Skulltag or Zandronum, else you'll get missing rune on map43)
+Primary purpose         : Single + coop play
+===========================================================================
+Title                   : Dark Tartarus: Dead Tonight
+Filename                : Tartaru5.zip
+Release date            : 15/1/2015
+Author                  : lihanchi
+Email Address           : leehanchi@hotmail.com
+
+
+Every single map is more or less changed, there are also 2 new maps.
+In general, many of the easier maps are harder because players can't exploit them anymore, harder maps are easier because of the increased options.
+Also I am sorry for anyone have been anticipating to play the maps on older ports, as it turned out the work required to fix the map is much more tedious than I thought, and I am a very lazy person, so, no support for older ports.
+However, I took the advantage of ZDOOM and created some interesting DECORATE. Don't worry, there are no new sprite or sound, I am pretty sure they are safe with 99% of the mods, and they only appear in TAT41-TAT43.
+For details and credits please see readme.
+
+===========================================================================
+* What is included *
+
+New levels              : 43
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : TAT01-TAT43
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Too freaking long
+Editor(s) used          : Doom Builder 2, PhotoShop, XWE, Wad Mangle, Slade3
+Known Bugs              : See readme
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors

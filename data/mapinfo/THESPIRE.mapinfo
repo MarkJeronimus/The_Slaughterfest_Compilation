@@ -1,0 +1,19 @@
+//The  Spire
+	
+map SPIRE_01 "The Spire"
+    next SPIRE_02
+	secretnext SPIRE_02
+    sky1 SKY2 0.02
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_SPIRE	
+
+map SPIRE_02 "The Spire 2"
+    next HUBMAP
+	secretnext HUBMAP
+    sky1 SKY3 0.2
+	SkyStretch
+	par 120
+    sucktime 1
+    music D_SPIRE2

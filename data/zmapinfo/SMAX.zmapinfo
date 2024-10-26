@@ -1,0 +1,354 @@
+//Slaughter Max
+map SMAX_01 "Mud Elemental"
+{
+     titlepatch ="CWILV214"
+     next ="SMAX_02"
+     secretnext ="SMAX_02"
+     sky1 ="Sky1",0.2
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX01"
+}
+map SMAX_02 "Showdown"
+{
+     titlepatch ="CWILV215"
+     next ="SMAX_03"
+     secretnext ="SMAX_03"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX02"
+}
+map SMAX_03 "Canyon Base"
+{
+     titlepatch ="CWILV216"
+     next ="SMAX_04"
+     secretnext ="SMAX_04"
+     sky1 ="Sky3",0.4
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX03"
+}
+ map SMAX_04 "Struggle Bug"
+{
+     titlepatch ="CWILV217"
+     next ="SMAX_05"
+     secretnext ="SMAX_05"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX04"
+}
+map SMAX_05 "The Broken Machine"
+{
+     titlepatch ="CWILV218"
+     next ="SMAX_06"
+     secretnext ="SMAX_06"
+     sky1 ="Sky1",0.5
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX05"
+}
+map SMAX_06 "Sons of Liberty"
+{
+     titlepatch ="CWILV219"
+     next ="SMAX_07"
+     secretnext ="SMAX_07"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX06"
+}
+map SMAX_07 "Lift of Enlightenment"
+{
+     titlepatch ="CWILV220"
+     next ="SMAX_08"
+     secretnext ="SMAX_08"
+     //map07special
+     sky1 ="Sky3",0.3
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX07"
+}
+map SMAX_08 "Dang!"
+{
+     titlepatch ="CWILV221"
+     next ="SMAX_09"
+     secretnext ="SMAX_09"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX08"
+}
+map SMAX_09 "Heavy Impact"
+{
+    titlepatch ="CWILV222"
+    next ="SMAX_10"
+    secretnext ="SMAX_10"
+    sky1 ="Sky1",0.3
+	SkyStretch
+	exitpic = "SMAXPIC"
+	intermusic = "D_SMAXIN"
+    music ="D_SMAX09"
+}
+map SMAX_10 "Velvet"
+{
+     titlepatch ="CWILV223"
+     next ="SMAX_11"
+     secretnext ="SMAX_11"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX10"
+}
+map SMAX_11 "ritournelle"
+{
+     titlepatch ="CWILV224"
+     next ="SMAX_12"
+     secretnext ="SMAX_12"
+     sky1 ="Sky3",0.4
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX11"
+}
+map SMAX_12 "Abscess"
+{
+     titlepatch ="CWILV225"
+     next ="SMAX_13"
+     secretnext ="SMAX_13"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX12"
+}
+map SMAX_13 "Rocketfest 2018"
+{
+     titlepatch ="CWILV226"
+     next ="SMAX_14"
+     secretnext ="SMAX_14"
+     sky1 ="Sky1",0.3
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX13"
+}
+map SMAX_14 "Slaughterstein"
+{
+     titlepatch ="CWILV227"
+     next ="SMAX_15"
+     secretnext ="SMAX_15"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX14"
+}
+map SMAX_15 "Necroveins"
+{
+     titlepatch ="CWILV228"
+     next ="SMAX_16"
+     secretnext ="SMAX_16"
+     sky1 ="Sky3",0.3
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX15"
+}
+map SMAX_16 "Blood and Stones"
+{
+     titlepatch ="CWILV229"
+     next ="SMAX_17"
+     secretnext ="SMAX_17"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX16"
+}
+map SMAX_17 "Literally Unplayable"
+{
+     titlepatch ="CWILV230"
+     next ="SMAX_18"
+     secretnext ="SMAX_18"
+     sky1 ="Sky1",0.5
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX17"
+}
+map SMAX_18 "Swiss Cheese Strike"
+{
+     titlepatch ="CWILV231"
+     next ="SMAX_19"
+     secretnext ="SMAX_19"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX18"
+}
+map SMAX_19 "Last Light"
+{
+     titlepatch ="CWILV232"
+     next ="SMAX_20"
+     secretnext ="SMAX_20"
+     sky1 ="Sky3",0.6
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX19"
+}
+map SMAX_20 "The Mouth of Madness"
+{
+     titlepatch ="CWILV233"
+     next = "SMAX_21"
+     secretnext = "SMAX_21"
+     sky1 = "Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music = "D_SMAX20"
+}
+map SMAX_21 "The Outhouse"
+{
+     titlepatch ="CWILV234"
+     next = "SMAX_22"
+     secretnext = "SMAX_22"
+     sky1 = "Sky1",0.2
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music = "D_SMAX21"
+}
+map SMAX_22 "Electro Wizard"
+{
+     titlepatch ="CWILV235"
+     next ="SMAX_23"
+     secretnext ="SMAX_23"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX22"
+}
+map SMAX_23 "Pandemonium Unveiled"
+{
+     titlepatch ="CWILV236"
+     next ="SMAX_24"
+     secretnext ="SMAX_24"
+     sky1 ="Sky3",0.4
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX23"
+}
+map SMAX_24 "Dead Ringer"
+{
+     titlepatch ="CWILV237"
+     next ="SMAX_25"
+     secretnext ="SMAX_25"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX24"
+}
+map SMAX_25 "Castle of Hell"
+{
+     titlepatch ="CWILV238"
+     next ="SMAX_26"
+     secretnext ="SMAX_26"
+     sky1 ="Sky1",0.4
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX25"
+}
+map SMAX_26 "Eviscerate"
+{
+     titlepatch ="CWILV239"
+     next ="SMAX_27"
+     secretnext ="SMAX_27"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX26"
+}
+map SMAX_27 "Back and Forth"
+{
+     titlepatch ="CWILV240"
+     next ="SMAX_28"
+     secretnext ="SMAX_28"
+     sky1 ="Sky3",0.5
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX27"
+}
+map SMAX_28 "The Eclipse of Betelgeuse"
+{
+     titlepatch ="CWILV241"
+     next ="SMAX_29"
+     secretnext ="SMAX_29"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX28"
+}
+map SMAX_29 "Skindustrial Sector 04"
+{
+     titlepatch ="CWILV242"
+     next ="SMAX_30"
+     secretnext ="SMAX_30"
+     sky1 ="Sky1",0.3
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="d_shawn3"
+}
+map SMAX_30 "Bugger This"
+{
+     titlepatch ="CWILV243"
+     next ="SMAX_31"
+     secretnext ="SMAX_31"
+     sky1 ="Sky2",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="d_openin"
+}
+map SMAX_31 "Assassin's Greed"
+{
+     titlepatch ="CWILV244"
+     next ="SMAX_32"
+     secretnext ="SMAX_32"
+     sky1 ="Sky3",0.6
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="d_evil"
+}
+map SMAX_32 "Power Overwhelming"
+{
+     titlepatch ="CWILV245"
+     next ="Hubmap"
+     secretnext ="hubmap"
+     sky1 ="Sky4",0.02
+	 SkyStretch
+	 exitpic = "SMAXPIC"
+	 intermusic = "D_SMAXIN"
+     music ="D_SMAX32"
+}

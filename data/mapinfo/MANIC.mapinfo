@@ -1,0 +1,13 @@
+//ManiCs Map
+
+map MANIC_01 "Another Map (aka Ohno not more Doom)"
+titlepatch CWILV201
+next HUBMAP
+secretnext HUBMAP
+sky1 SKY1 0.1
+SkyStretch
+par 120
+sucktime 1
+music D_MANI01
+exitpic DAINTER
+intermusic D_DARINT

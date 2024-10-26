@@ -1,0 +1,5 @@
+Server noarchive int  SFC_VoteTimer  = 30;
+Server noarchive bool SFC_ForbiddenMaps = false;
+Server noarchive bool SFC_SingleVoteTimer = true;
+Server noarchive int  SFC_MaxPlayerReVotes  = 10;
+Server noarchive bool SFC_Debug = False;

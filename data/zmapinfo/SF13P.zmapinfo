@@ -1,0 +1,211 @@
+//Slaughterfest Pre v4 2013
+map SF13P_01 "Frozen tech (rush.wad MAP03)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_02"
+	secretnext = "SF13P_02"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P01"
+	intermusic = "D_2013IN"
+}
+map SF13P_02 "Assault on UAC base 13"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_06"
+	secretnext = "SF13P_06"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_STALKS"
+	intermusic = "D_2013IN"
+}
+map SF13P_06 "White fields (rush.wad MAP04)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_07"
+	secretnext = "SF13P_07"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P06"
+	intermusic = "D_2013IN"
+}
+map SF13P_07 "Metastasizing Slaughterfest"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_08"
+	secretnext = "SF13P_08"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P07"
+	intermusic = "D_2013IN"
+}
+map SF13P_08 "Land of the demons (rush.wad MAP08)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_09"
+	secretnext = "SF13P_09"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P08"
+	intermusic = "D_2013IN"
+}
+map SF13P_09 "The lava heart (rush.wad MAP09)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_10"
+	secretnext = "SF13P_10"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P09"
+	intermusic = "D_2013IN"
+}
+map SF13P_10 "Shanghai Massacre"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_11"
+	secretnext = "SF13P_11"
+	sky1 = "sky3",0.4
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P10"
+	intermusic = "D_2013IN"
+}
+map SF13P_11 "Dark corner (rush.wad MAP10)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_12"
+	secretnext = "SF13P_12"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P11"
+	intermusic = "D_2013IN"
+}
+map SF13P_12 "GutBuster"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_13"
+	secretnext = "SF13P_13"
+	sky1 = "sky1",0.2
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P12"
+	intermusic = "D_2013IN"
+}
+map SF13P_13 "Emission of hate (rush.wad MAP11)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_14"
+	secretnext = "SF13P_14"
+	sky1 = "sky3",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P13"
+	intermusic = "D_2013IN"
+}
+map SF13P_14 "Aquafresh Cresents"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_16"
+	secretnext = "SF13P_16"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P14"
+	intermusic = "D_2013IN"
+}
+map SF13P_16 "Insane Trip Part I"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_19"
+	secretnext = "SF13P_19"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P16"
+	intermusic = "D_2013IN"
+}
+map SF13P_19 "Daiyus Chamber"
+{
+	titlepatch = "CWILV149"
+	next = "SF13P_21"
+	secretnext = "SF13P_21"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P19"
+	intermusic = "D_2013IN"
+}
+map SF13P_21 "Poop"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_22"
+	secretnext = "SF13P_22"
+	sky1 = "sky3",0.3
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P21"
+	intermusic = "D_2013IN"
+}
+map SF13P_22 "Firestarter(v1)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_24"
+	secretnext = "SF13P_24"
+	sky1 = "sky4",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P22"
+	intermusic = "D_2013IN"
+}
+map SF13P_24 "Temple Arena"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_25"
+	secretnext = "SF13P_25"
+	sky1 = "sky1",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P24"
+	intermusic = "D_2013IN"
+}
+map SF13P_25 "Wavebreaker(v3)"
+{
+	//titlepatch = "CWILV185"
+	next = "SF13P_27"
+	secretnext = "SF13P_27"
+	sky1 = "sky1",0.2
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P25"
+	intermusic = "D_2013IN"
+}
+
+map SF13P_27 "Trick or Treat"
+{
+	titlepatch = "CWILV163"
+	next = "SF13P_28"
+	secretnext = "SF13P_28"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P27"
+	intermusic = "D_2013IN"
+}
+map SF13P_28 "Castle of the damned"
+{
+	//titlepatch = "CWILV185"
+	next = "Hubmap"
+	secretnext = "Hubmap"
+	sky1 = "sky2",0.02
+	SkyStretch
+	exitpic = "2013PIC"
+	music = "D_SF3P28"
+	intermusic = "D_2013IN"
+}

@@ -1,0 +1,13 @@
+//Random DMPMap
+Map DMP17_20 "Wolfenfels"
+{
+titlepatch = "CWILV278"
+Music = "D_DP1720"
+Next = "HUBMAP"
+SecretNext = "HUBMAP"
+Sky1 = "Sky1",0.02
+SkyStretch
+exitpic = "DMPPIC"
+intermusic = "D_DMPIN"
+}
+//Rewind! Press play on tape

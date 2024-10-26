@@ -1,0 +1,6 @@
+VOTEDING           VOTEDING
+VOTENOPE           VOTENOPE
+GravityDisabled    GRAVALAR
+GravityEnabled     GRAVREST
+StaticS            SCSTATIC
+$Ambient 8 StaticS point continuous 0.8

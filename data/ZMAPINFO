@@ -1,0 +1,42 @@
+//   Zmapinfo written by
+//   >>>ReYalP<<< aka ManiC
+
+clearepisodes
+episode map01
+{
+	name = "Slaughterfest Map Compilation"
+	key = "a"
+}
+
+defaultmap
+{
+	sucktime = 1
+}
+
+map HUBMAP "The Hub"
+	{
+	exitpic = "HUBPIC"	
+	intermusic = "D_HUBMUS"
+	sky1 = "Sky2",0.5
+	SkyStretch
+	music ="D_THEHUB"
+	}
+	
+include "ZMAPINFO/CHILLAX.zmapinfo"
+include "ZMAPINFO/SF11.zmapinfo"
+include "ZMAPINFO/SF12.zmapinfo"
+include "ZMAPINFO/SF13F.zmapinfo"
+include "ZMAPINFO/SF13P.zmapinfo"
+include "ZMAPINFO/NGMT1.zmapinfo"
+include "ZMAPINFO/NGMT2.zmapinfo"
+include "ZMAPINFO/MANIC.zmapinfo"
+include "ZMAPINFO/CSHOCK1.zmapinfo"
+include "ZMAPINFO/CSHOCK2.zmapinfo"
+include "ZMAPINFO/PIZZA.zmapinfo"
+include "ZMAPINFO/THESPIRE.zmapinfo"
+include "ZMAPINFO/DARKTART.zmapinfo"
+include "ZMAPINFO/SMAX.zmapinfo"
+include "ZMAPINFO/NOSP2.zmapinfo"
+include "ZMAPINFO/DMP17.zmapinfo"
+
+//Rewind! Press play on tape
