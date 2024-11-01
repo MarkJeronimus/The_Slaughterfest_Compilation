@@ -1,0 +1,7 @@
+SMAX_26
+- Change starting teleporter to multiple-use
+- Center entire map on (0,0)
+- Move disjoint arenas to aid in homing teleportation
+- Move one arena to align floor texture better
+- Increase sky height in platforming arena to aid rocket jumping
+- Change bars to exit to prevent jump-crouch-slipping
