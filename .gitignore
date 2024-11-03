@@ -1,0 +1,13 @@
+#Generic
+*.bak
+*~
+
+#OS
+thumbs.db
+.DS_Store
+
+#IDE
+.history
+
+#Project
+*.pk3
